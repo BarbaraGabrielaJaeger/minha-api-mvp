@@ -1,6 +1,5 @@
 # Minha API - BARBARA GABRIELA JAEGER
 # Sprint: Desenvolvimento Full Stack Básico (40530010058_20240_04)
-# 
 # Link da API (Swagger): http://172.29.155.70:5000/openapi/swagger#/Produto/add_produto_produto_post
 
 Este pequeno projeto faz parte do material didático da Disciplina **Desenvolvimento Full Stack Básico** 
